@@ -1,0 +1,1707 @@
+{
+  "@material-ui/core": {
+    "parsed": 363802,
+    "gzip": 100144
+  },
+  "@material-ui/core/Paper.esm": {
+    "parsed": 66996,
+    "gzip": 20926
+  },
+  "@material-ui/core/Popper": {
+    "parsed": 28759,
+    "gzip": 10323
+  },
+  "@material-ui/core/Textarea": {
+    "parsed": 5189,
+    "gzip": 2170
+  },
+  "@material-ui/core/styles/createMuiTheme": {
+    "parsed": 22175,
+    "gzip": 7691
+  },
+  "@material-ui/core/useMediaQuery": {
+    "parsed": 2563,
+    "gzip": 1062
+  },
+  "@material-ui/lab": {
+    "parsed": 202796,
+    "gzip": 60362
+  },
+  "@material-ui/styles": {
+    "parsed": 52039,
+    "gzip": 15615
+  },
+  "@material-ui/system": {
+    "parsed": 17239,
+    "gzip": 4523
+  },
+  "Alert": {
+    "parsed": 87607,
+    "gzip": 27767
+  },
+  "AlertTitle": {
+    "parsed": 68840,
+    "gzip": 21690
+  },
+  "AppBar": {
+    "parsed": 68674,
+    "gzip": 21570
+  },
+  "Autocomplete": {
+    "parsed": 135920,
+    "gzip": 42811
+  },
+  "Avatar": {
+    "parsed": 69806,
+    "gzip": 21895
+  },
+  "AvatarGroup": {
+    "parsed": 70848,
+    "gzip": 22496
+  },
+  "Backdrop": {
+    "parsed": 72467,
+    "gzip": 22423
+  },
+  "Badge": {
+    "parsed": 69968,
+    "gzip": 21811
+  },
+  "BottomNavigation": {
+    "parsed": 67057,
+    "gzip": 21069
+  },
+  "BottomNavigationAction": {
+    "parsed": 79780,
+    "gzip": 25334
+  },
+  "Box": {
+    "parsed": 73561,
+    "gzip": 22355
+  },
+  "Breadcrumbs": {
+    "parsed": 84658,
+    "gzip": 26851
+  },
+  "Button": {
+    "parsed": 83984,
+    "gzip": 25820
+  },
+  "ButtonBase": {
+    "parsed": 78249,
+    "gzip": 24619
+  },
+  "ButtonGroup": {
+    "parsed": 87467,
+    "gzip": 27058
+  },
+  "Card": {
+    "parsed": 67506,
+    "gzip": 21192
+  },
+  "CardActionArea": {
+    "parsed": 79366,
+    "gzip": 25135
+  },
+  "CardActions": {
+    "parsed": 66707,
+    "gzip": 20928
+  },
+  "CardContent": {
+    "parsed": 66634,
+    "gzip": 20887
+  },
+  "CardHeader": {
+    "parsed": 69709,
+    "gzip": 21992
+  },
+  "CardMedia": {
+    "parsed": 67008,
+    "gzip": 21096
+  },
+  "Checkbox": {
+    "parsed": 86434,
+    "gzip": 27436
+  },
+  "Chip": {
+    "parsed": 86940,
+    "gzip": 26749
+  },
+  "CircularProgress": {
+    "parsed": 68760,
+    "gzip": 21719
+  },
+  "ClickAwayListener": {
+    "parsed": 3839,
+    "gzip": 1540
+  },
+  "Collapse": {
+    "parsed": 72648,
+    "gzip": 22506
+  },
+  "Container": {
+    "parsed": 67828,
+    "gzip": 21246
+  },
+  "CssBaseline": {
+    "parsed": 66638,
+    "gzip": 20970
+  },
+  "Dialog": {
+    "parsed": 87495,
+    "gzip": 27431
+  },
+  "DialogActions": {
+    "parsed": 66751,
+    "gzip": 20948
+  },
+  "DialogContent": {
+    "parsed": 66871,
+    "gzip": 20988
+  },
+  "DialogContentText": {
+    "parsed": 68690,
+    "gzip": 21602
+  },
+  "DialogTitle": {
+    "parsed": 68920,
+    "gzip": 21698
+  },
+  "Divider": {
+    "parsed": 67347,
+    "gzip": 21212
+  },
+  "Drawer": {
+    "parsed": 89214,
+    "gzip": 27236
+  },
+  "ExpansionPanel": {
+    "parsed": 76227,
+    "gzip": 24047
+  },
+  "ExpansionPanelActions": {
+    "parsed": 66743,
+    "gzip": 20942
+  },
+  "ExpansionPanelDetails": {
+    "parsed": 66595,
+    "gzip": 20876
+  },
+  "ExpansionPanelSummary": {
+    "parsed": 82369,
+    "gzip": 26213
+  },
+  "Fab": {
+    "parsed": 81062,
+    "gzip": 25357
+  },
+  "Fade": {
+    "parsed": 28356,
+    "gzip": 9471
+  },
+  "FilledInput": {
+    "parsed": 78205,
+    "gzip": 24381
+  },
+  "FormControl": {
+    "parsed": 69035,
+    "gzip": 21546
+  },
+  "FormControlLabel": {
+    "parsed": 70139,
+    "gzip": 22082
+  },
+  "FormGroup": {
+    "parsed": 66657,
+    "gzip": 20777
+  },
+  "FormHelperText": {
+    "parsed": 67968,
+    "gzip": 21173
+  },
+  "FormLabel": {
+    "parsed": 68075,
+    "gzip": 21154
+  },
+  "Grid": {
+    "parsed": 69758,
+    "gzip": 21929
+  },
+  "GridList": {
+    "parsed": 67137,
+    "gzip": 21120
+  },
+  "GridListTile": {
+    "parsed": 68371,
+    "gzip": 21474
+  },
+  "GridListTileBar": {
+    "parsed": 67864,
+    "gzip": 21303
+  },
+  "Grow": {
+    "parsed": 28956,
+    "gzip": 9682
+  },
+  "Hidden": {
+    "parsed": 70613,
+    "gzip": 22260
+  },
+  "Icon": {
+    "parsed": 67450,
+    "gzip": 21177
+  },
+  "IconButton": {
+    "parsed": 80399,
+    "gzip": 25173
+  },
+  "Input": {
+    "parsed": 77155,
+    "gzip": 24173
+  },
+  "InputAdornment": {
+    "parsed": 69728,
+    "gzip": 22029
+  },
+  "InputBase": {
+    "parsed": 75272,
+    "gzip": 23691
+  },
+  "InputLabel": {
+    "parsed": 69923,
+    "gzip": 21624
+  },
+  "LinearProgress": {
+    "parsed": 69964,
+    "gzip": 21671
+  },
+  "Link": {
+    "parsed": 71222,
+    "gzip": 22595
+  },
+  "List": {
+    "parsed": 66976,
+    "gzip": 20907
+  },
+  "ListItem": {
+    "parsed": 81342,
+    "gzip": 25549
+  },
+  "ListItemAvatar": {
+    "parsed": 66758,
+    "gzip": 20927
+  },
+  "ListItemIcon": {
+    "parsed": 66829,
+    "gzip": 20955
+  },
+  "ListItemSecondaryAction": {
+    "parsed": 66662,
+    "gzip": 20906
+  },
+  "ListItemText": {
+    "parsed": 69624,
+    "gzip": 21965
+  },
+  "ListSubheader": {
+    "parsed": 67416,
+    "gzip": 21236
+  },
+  "Menu": {
+    "parsed": 93192,
+    "gzip": 28795
+  },
+  "MenuItem": {
+    "parsed": 82431,
+    "gzip": 25869
+  },
+  "MenuList": {
+    "parsed": 70683,
+    "gzip": 22148
+  },
+  "MobileStepper": {
+    "parsed": 72472,
+    "gzip": 22797
+  },
+  "Modal": {
+    "parsed": 14938,
+    "gzip": 5226
+  },
+  "NativeSelect": {
+    "parsed": 81509,
+    "gzip": 25893
+  },
+  "NoSsr": {
+    "parsed": 2177,
+    "gzip": 1036
+  },
+  "OutlinedInput": {
+    "parsed": 79224,
+    "gzip": 24729
+  },
+  "Pagination": {
+    "parsed": 88737,
+    "gzip": 27441
+  },
+  "PaginationItem": {
+    "parsed": 85098,
+    "gzip": 26327
+  },
+  "Popover": {
+    "parsed": 87558,
+    "gzip": 27169
+  },
+  "Portal": {
+    "parsed": 2870,
+    "gzip": 1289
+  },
+  "Radio": {
+    "parsed": 87461,
+    "gzip": 27735
+  },
+  "RadioGroup": {
+    "parsed": 68432,
+    "gzip": 21300
+  },
+  "Rating": {
+    "parsed": 75085,
+    "gzip": 24207
+  },
+  "RootRef": {
+    "parsed": 4616,
+    "gzip": 1764
+  },
+  "ScopedCssBaseline": {
+    "parsed": 67479,
+    "gzip": 21184
+  },
+  "Select": {
+    "parsed": 120084,
+    "gzip": 35889
+  },
+  "Skeleton": {
+    "parsed": 67650,
+    "gzip": 21394
+  },
+  "Slide": {
+    "parsed": 30411,
+    "gzip": 10078
+  },
+  "Slider": {
+    "parsed": 80454,
+    "gzip": 25717
+  },
+  "Snackbar": {
+    "parsed": 79925,
+    "gzip": 25077
+  },
+  "SnackbarContent": {
+    "parsed": 68171,
+    "gzip": 21275
+  },
+  "SpeedDial": {
+    "parsed": 90460,
+    "gzip": 28719
+  },
+  "SpeedDialAction": {
+    "parsed": 122027,
+    "gzip": 38876
+  },
+  "SpeedDialIcon": {
+    "parsed": 69201,
+    "gzip": 21778
+  },
+  "Step": {
+    "parsed": 67317,
+    "gzip": 21161
+  },
+  "StepButton": {
+    "parsed": 86552,
+    "gzip": 27408
+  },
+  "StepConnector": {
+    "parsed": 67373,
+    "gzip": 21256
+  },
+  "StepContent": {
+    "parsed": 73815,
+    "gzip": 23061
+  },
+  "StepIcon": {
+    "parsed": 69230,
+    "gzip": 21623
+  },
+  "StepLabel": {
+    "parsed": 73187,
+    "gzip": 22702
+  },
+  "Stepper": {
+    "parsed": 69513,
+    "gzip": 21956
+  },
+  "SvgIcon": {
+    "parsed": 67662,
+    "gzip": 21153
+  },
+  "SwipeableDrawer": {
+    "parsed": 96622,
+    "gzip": 30349
+  },
+  "Switch": {
+    "parsed": 85646,
+    "gzip": 27005
+  },
+  "Tab": {
+    "parsed": 80606,
+    "gzip": 25693
+  },
+  "Table": {
+    "parsed": 67204,
+    "gzip": 21131
+  },
+  "TableBody": {
+    "parsed": 66754,
+    "gzip": 20925
+  },
+  "TableCell": {
+    "parsed": 68678,
+    "gzip": 21653
+  },
+  "TableContainer": {
+    "parsed": 66622,
+    "gzip": 20875
+  },
+  "TableFooter": {
+    "parsed": 66761,
+    "gzip": 20929
+  },
+  "TableHead": {
+    "parsed": 66757,
+    "gzip": 20923
+  },
+  "TablePagination": {
+    "parsed": 146540,
+    "gzip": 43169
+  },
+  "TableRow": {
+    "parsed": 67144,
+    "gzip": 21099
+  },
+  "TableSortLabel": {
+    "parsed": 81656,
+    "gzip": 25940
+  },
+  "Tabs": {
+    "parsed": 89585,
+    "gzip": 28675
+  },
+  "TextField": {
+    "parsed": 128882,
+    "gzip": 37922
+  },
+  "ToggleButton": {
+    "parsed": 80435,
+    "gzip": 25556
+  },
+  "ToggleButtonGroup": {
+    "parsed": 67853,
+    "gzip": 21377
+  },
+  "Toolbar": {
+    "parsed": 66982,
+    "gzip": 21078
+  },
+  "Tooltip": {
+    "parsed": 106248,
+    "gzip": 33649
+  },
+  "TreeItem": {
+    "parsed": 79831,
+    "gzip": 25370
+  },
+  "TreeView": {
+    "parsed": 72950,
+    "gzip": 22978
+  },
+  "Typography": {
+    "parsed": 68287,
+    "gzip": 21362
+  },
+  "Zoom": {
+    "parsed": 28432,
+    "gzip": 9588
+  },
+  "colorManipulator": {
+    "parsed": 3881,
+    "gzip": 1525
+  },
+  "useAutocomplete": {
+    "parsed": 15954,
+    "gzip": 5708
+  },
+  "packages/material-ui/build/umd/material-ui.production.min.js": {
+    "parsed": 320615,
+    "gzip": 93050
+  },
+  "docs.landing": {
+    "parsed": 10700,
+    "gzip": -1
+  },
+  "docs:/_app": {
+    "parsed": 33700,
+    "gzip": -1
+  },
+  "docs:/api-docs/alert": {
+    "parsed": 2150,
+    "gzip": -1
+  },
+  "docs:/api-docs/alert-title": {
+    "parsed": 1140,
+    "gzip": -1
+  },
+  "docs:/api-docs/app-bar": {
+    "parsed": 1690,
+    "gzip": -1
+  },
+  "docs:/api-docs/autocomplete": {
+    "parsed": 4050,
+    "gzip": -1
+  },
+  "docs:/api-docs/avatar": {
+    "parsed": 1610,
+    "gzip": -1
+  },
+  "docs:/api-docs/avatar-group": {
+    "parsed": 1260,
+    "gzip": -1
+  },
+  "docs:/api-docs/backdrop": {
+    "parsed": 1380,
+    "gzip": -1
+  },
+  "docs:/api-docs/badge": {
+    "parsed": 1880,
+    "gzip": -1
+  },
+  "docs:/api-docs/bottom-navigation": {
+    "parsed": 1430,
+    "gzip": -1
+  },
+  "docs:/api-docs/bottom-navigation-action": {
+    "parsed": 1550,
+    "gzip": -1
+  },
+  "docs:/api-docs/breadcrumbs": {
+    "parsed": 1590,
+    "gzip": -1
+  },
+  "docs:/api-docs/button": {
+    "parsed": 2320,
+    "gzip": -1
+  },
+  "docs:/api-docs/button-base": {
+    "parsed": 2080,
+    "gzip": -1
+  },
+  "docs:/api-docs/button-group": {
+    "parsed": 1950,
+    "gzip": -1
+  },
+  "docs:/api-docs/card": {
+    "parsed": 1250,
+    "gzip": -1
+  },
+  "docs:/api-docs/card-action-area": {
+    "parsed": 1320,
+    "gzip": -1
+  },
+  "docs:/api-docs/card-actions": {
+    "parsed": 1220,
+    "gzip": -1
+  },
+  "docs:/api-docs/card-content": {
+    "parsed": 1200,
+    "gzip": -1
+  },
+  "docs:/api-docs/card-header": {
+    "parsed": 1530,
+    "gzip": -1
+  },
+  "docs:/api-docs/card-media": {
+    "parsed": 1430,
+    "gzip": -1
+  },
+  "docs:/api-docs/checkbox": {
+    "parsed": 2050,
+    "gzip": -1
+  },
+  "docs:/api-docs/chip": {
+    "parsed": 2190,
+    "gzip": -1
+  },
+  "docs:/api-docs/circular-progress": {
+    "parsed": 1800,
+    "gzip": -1
+  },
+  "docs:/api-docs/click-away-listener": {
+    "parsed": 1130,
+    "gzip": -1
+  },
+  "docs:/api-docs/collapse": {
+    "parsed": 1760,
+    "gzip": -1
+  },
+  "docs:/api-docs/container": {
+    "parsed": 1620,
+    "gzip": -1
+  },
+  "docs:/api-docs/css-baseline": {
+    "parsed": 1140,
+    "gzip": -1
+  },
+  "docs:/api-docs/dialog": {
+    "parsed": 2480,
+    "gzip": -1
+  },
+  "docs:/api-docs/dialog-actions": {
+    "parsed": 1220,
+    "gzip": -1
+  },
+  "docs:/api-docs/dialog-content": {
+    "parsed": 1200,
+    "gzip": -1
+  },
+  "docs:/api-docs/dialog-content-text": {
+    "parsed": 1230,
+    "gzip": -1
+  },
+  "docs:/api-docs/dialog-title": {
+    "parsed": 1250,
+    "gzip": -1
+  },
+  "docs:/api-docs/divider": {
+    "parsed": 1550,
+    "gzip": -1
+  },
+  "docs:/api-docs/drawer": {
+    "parsed": 1870,
+    "gzip": -1
+  },
+  "docs:/api-docs/expansion-panel": {
+    "parsed": 1700,
+    "gzip": -1
+  },
+  "docs:/api-docs/expansion-panel-actions": {
+    "parsed": 1230,
+    "gzip": -1
+  },
+  "docs:/api-docs/expansion-panel-details": {
+    "parsed": 1160,
+    "gzip": -1
+  },
+  "docs:/api-docs/expansion-panel-summary": {
+    "parsed": 1460,
+    "gzip": -1
+  },
+  "docs:/api-docs/fab": {
+    "parsed": 1860,
+    "gzip": -1
+  },
+  "docs:/api-docs/fade": {
+    "parsed": 1170,
+    "gzip": -1
+  },
+  "docs:/api-docs/filled-input": {
+    "parsed": 2650,
+    "gzip": -1
+  },
+  "docs:/api-docs/form-control": {
+    "parsed": 2120,
+    "gzip": -1
+  },
+  "docs:/api-docs/form-control-label": {
+    "parsed": 1730,
+    "gzip": -1
+  },
+  "docs:/api-docs/form-group": {
+    "parsed": 1300,
+    "gzip": -1
+  },
+  "docs:/api-docs/form-helper-text": {
+    "parsed": 1660,
+    "gzip": -1
+  },
+  "docs:/api-docs/form-label": {
+    "parsed": 1590,
+    "gzip": -1
+  },
+  "docs:/api-docs/grid": {
+    "parsed": 2290,
+    "gzip": -1
+  },
+  "docs:/api-docs/grid-list": {
+    "parsed": 1370,
+    "gzip": -1
+  },
+  "docs:/api-docs/grid-list-tile": {
+    "parsed": 1460,
+    "gzip": -1
+  },
+  "docs:/api-docs/grid-list-tile-bar": {
+    "parsed": 1540,
+    "gzip": -1
+  },
+  "docs:/api-docs/grow": {
+    "parsed": 1230,
+    "gzip": -1
+  },
+  "docs:/api-docs/hidden": {
+    "parsed": 1320,
+    "gzip": -1
+  },
+  "docs:/api-docs/icon": {
+    "parsed": 1540,
+    "gzip": -1
+  },
+  "docs:/api-docs/icon-button": {
+    "parsed": 1850,
+    "gzip": -1
+  },
+  "docs:/api-docs/input": {
+    "parsed": 2610,
+    "gzip": -1
+  },
+  "docs:/api-docs/input-adornment": {
+    "parsed": 1680,
+    "gzip": -1
+  },
+  "docs:/api-docs/input-base": {
+    "parsed": 2740,
+    "gzip": -1
+  },
+  "docs:/api-docs/input-label": {
+    "parsed": 1820,
+    "gzip": -1
+  },
+  "docs:/api-docs/linear-progress": {
+    "parsed": 1780,
+    "gzip": -1
+  },
+  "docs:/api-docs/link": {
+    "parsed": 1680,
+    "gzip": -1
+  },
+  "docs:/api-docs/list": {
+    "parsed": 1440,
+    "gzip": -1
+  },
+  "docs:/api-docs/list-item": {
+    "parsed": 2000,
+    "gzip": -1
+  },
+  "docs:/api-docs/list-item-avatar": {
+    "parsed": 1250,
+    "gzip": -1
+  },
+  "docs:/api-docs/list-item-icon": {
+    "parsed": 1270,
+    "gzip": -1
+  },
+  "docs:/api-docs/list-item-secondary-action": {
+    "parsed": 1220,
+    "gzip": -1
+  },
+  "docs:/api-docs/list-item-text": {
+    "parsed": 1540,
+    "gzip": -1
+  },
+  "docs:/api-docs/list-subheader": {
+    "parsed": 1510,
+    "gzip": -1
+  },
+  "docs:/api-docs/menu": {
+    "parsed": 2130,
+    "gzip": -1
+  },
+  "docs:/api-docs/menu-item": {
+    "parsed": 1480,
+    "gzip": -1
+  },
+  "docs:/api-docs/menu-list": {
+    "parsed": 1360,
+    "gzip": -1
+  },
+  "docs:/api-docs/mobile-stepper": {
+    "parsed": 1670,
+    "gzip": -1
+  },
+  "docs:/api-docs/modal": {
+    "parsed": 2140,
+    "gzip": -1
+  },
+  "docs:/api-docs/native-select": {
+    "parsed": 1830,
+    "gzip": -1
+  },
+  "docs:/api-docs/no-ssr": {
+    "parsed": 1090,
+    "gzip": -1
+  },
+  "docs:/api-docs/outlined-input": {
+    "parsed": 2760,
+    "gzip": -1
+  },
+  "docs:/api-docs/pagination": {
+    "parsed": 1980,
+    "gzip": -1
+  },
+  "docs:/api-docs/pagination-item": {
+    "parsed": 1710,
+    "gzip": -1
+  },
+  "docs:/api-docs/paper": {
+    "parsed": 1610,
+    "gzip": -1
+  },
+  "docs:/api-docs/popover": {
+    "parsed": 2500,
+    "gzip": -1
+  },
+  "docs:/api-docs/popper": {
+    "parsed": 1760,
+    "gzip": -1
+  },
+  "docs:/api-docs/portal": {
+    "parsed": 1120,
+    "gzip": -1
+  },
+  "docs:/api-docs/radio": {
+    "parsed": 1870,
+    "gzip": -1
+  },
+  "docs:/api-docs/radio-group": {
+    "parsed": 1230,
+    "gzip": -1
+  },
+  "docs:/api-docs/rating": {
+    "parsed": 2250,
+    "gzip": -1
+  },
+  "docs:/api-docs/root-ref": {
+    "parsed": 1200,
+    "gzip": -1
+  },
+  "docs:/api-docs/scoped-css-baseline": {
+    "parsed": 1150,
+    "gzip": -1
+  },
+  "docs:/api-docs/select": {
+    "parsed": 2650,
+    "gzip": -1
+  },
+  "docs:/api-docs/skeleton": {
+    "parsed": 1520,
+    "gzip": -1
+  },
+  "docs:/api-docs/slide": {
+    "parsed": 1310,
+    "gzip": -1
+  },
+  "docs:/api-docs/slider": {
+    "parsed": 2850,
+    "gzip": -1
+  },
+  "docs:/api-docs/snackbar": {
+    "parsed": 2460,
+    "gzip": -1
+  },
+  "docs:/api-docs/snackbar-content": {
+    "parsed": 1360,
+    "gzip": -1
+  },
+  "docs:/api-docs/speed-dial": {
+    "parsed": 2050,
+    "gzip": -1
+  },
+  "docs:/api-docs/speed-dial-action": {
+    "parsed": 1670,
+    "gzip": -1
+  },
+  "docs:/api-docs/speed-dial-icon": {
+    "parsed": 1290,
+    "gzip": -1
+  },
+  "docs:/api-docs/step": {
+    "parsed": 1380,
+    "gzip": -1
+  },
+  "docs:/api-docs/step-button": {
+    "parsed": 1380,
+    "gzip": -1
+  },
+  "docs:/api-docs/step-connector": {
+    "parsed": 1290,
+    "gzip": -1
+  },
+  "docs:/api-docs/step-content": {
+    "parsed": 1470,
+    "gzip": -1
+  },
+  "docs:/api-docs/step-icon": {
+    "parsed": 1330,
+    "gzip": -1
+  },
+  "docs:/api-docs/step-label": {
+    "parsed": 1640,
+    "gzip": -1
+  },
+  "docs:/api-docs/stepper": {
+    "parsed": 1600,
+    "gzip": -1
+  },
+  "docs:/api-docs/svg-icon": {
+    "parsed": 2009.9999999999998,
+    "gzip": -1
+  },
+  "docs:/api-docs/swipeable-drawer": {
+    "parsed": 1780,
+    "gzip": -1
+  },
+  "docs:/api-docs/switch": {
+    "parsed": 2220,
+    "gzip": -1
+  },
+  "docs:/api-docs/tab": {
+    "parsed": 1740,
+    "gzip": -1
+  },
+  "docs:/api-docs/table": {
+    "parsed": 1430,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-body": {
+    "parsed": 1210,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-cell": {
+    "parsed": 1870,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-container": {
+    "parsed": 1220,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-footer": {
+    "parsed": 1220,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-head": {
+    "parsed": 1210,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-pagination": {
+    "parsed": 2210,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-row": {
+    "parsed": 1430,
+    "gzip": -1
+  },
+  "docs:/api-docs/table-sort-label": {
+    "parsed": 1570,
+    "gzip": -1
+  },
+  "docs:/api-docs/tabs": {
+    "parsed": 2280,
+    "gzip": -1
+  },
+  "docs:/api-docs/text-field": {
+    "parsed": 2940,
+    "gzip": -1
+  },
+  "docs:/api-docs/textarea-autosize": {
+    "parsed": 908,
+    "gzip": -1
+  },
+  "docs:/api-docs/toggle-button": {
+    "parsed": 1550,
+    "gzip": -1
+  },
+  "docs:/api-docs/toggle-button-group": {
+    "parsed": 1560,
+    "gzip": -1
+  },
+  "docs:/api-docs/toolbar": {
+    "parsed": 1400,
+    "gzip": -1
+  },
+  "docs:/api-docs/tooltip": {
+    "parsed": 2300,
+    "gzip": -1
+  },
+  "docs:/api-docs/tree-item": {
+    "parsed": 1530,
+    "gzip": -1
+  },
+  "docs:/api-docs/tree-view": {
+    "parsed": 1670,
+    "gzip": -1
+  },
+  "docs:/api-docs/typography": {
+    "parsed": 2330,
+    "gzip": -1
+  },
+  "docs:/api-docs/zoom": {
+    "parsed": 1200,
+    "gzip": -1
+  },
+  "docs:/blog/2019": {
+    "parsed": 3870,
+    "gzip": -1
+  },
+  "docs:/blog/2019-developer-survey-results": {
+    "parsed": 5980,
+    "gzip": -1
+  },
+  "docs:/blog/2020-introducing-sketch": {
+    "parsed": 3100,
+    "gzip": -1
+  },
+  "docs:/blog/april-2019-update": {
+    "parsed": 2760,
+    "gzip": -1
+  },
+  "docs:/blog/august-2019-update": {
+    "parsed": 1870,
+    "gzip": -1
+  },
+  "docs:/blog/december-2019-update": {
+    "parsed": 2009.9999999999998,
+    "gzip": -1
+  },
+  "docs:/blog/july-2019-update": {
+    "parsed": 1770,
+    "gzip": -1
+  },
+  "docs:/blog/june-2019-update": {
+    "parsed": 1630,
+    "gzip": -1
+  },
+  "docs:/blog/march-2019-update": {
+    "parsed": 2170,
+    "gzip": -1
+  },
+  "docs:/blog/material-ui-v1-is-out": {
+    "parsed": 6290,
+    "gzip": -1
+  },
+  "docs:/blog/material-ui-v4-is-out": {
+    "parsed": 9320,
+    "gzip": -1
+  },
+  "docs:/blog/may-2019-update": {
+    "parsed": 1960,
+    "gzip": -1
+  },
+  "docs:/blog/november-2019-update": {
+    "parsed": 2370,
+    "gzip": -1
+  },
+  "docs:/blog/october-2019-update": {
+    "parsed": 2120,
+    "gzip": -1
+  },
+  "docs:/blog/september-2019-update": {
+    "parsed": 2300,
+    "gzip": -1
+  },
+  "docs:/company/about": {
+    "parsed": 1560,
+    "gzip": -1
+  },
+  "docs:/company/contact": {
+    "parsed": 1140,
+    "gzip": -1
+  },
+  "docs:/company/jobs": {
+    "parsed": 1160,
+    "gzip": -1
+  },
+  "docs:/components/about-the-lab": {
+    "parsed": 5550,
+    "gzip": -1
+  },
+  "docs:/components/alert": {
+    "parsed": 12400,
+    "gzip": -1
+  },
+  "docs:/components/app-bar": {
+    "parsed": 30900,
+    "gzip": -1
+  },
+  "docs:/components/autocomplete": {
+    "parsed": 105000,
+    "gzip": -1
+  },
+  "docs:/components/avatars": {
+    "parsed": 8440,
+    "gzip": -1
+  },
+  "docs:/components/backdrop": {
+    "parsed": 3310,
+    "gzip": -1
+  },
+  "docs:/components/badges": {
+    "parsed": 15000,
+    "gzip": -1
+  },
+  "docs:/components/bottom-navigation": {
+    "parsed": 6210,
+    "gzip": -1
+  },
+  "docs:/components/box": {
+    "parsed": 7950,
+    "gzip": -1
+  },
+  "docs:/components/breadcrumbs": {
+    "parsed": 14300,
+    "gzip": -1
+  },
+  "docs:/components/button-group": {
+    "parsed": 6640,
+    "gzip": -1
+  },
+  "docs:/components/buttons": {
+    "parsed": 24300,
+    "gzip": -1
+  },
+  "docs:/components/cards": {
+    "parsed": 16900,
+    "gzip": -1
+  },
+  "docs:/components/checkboxes": {
+    "parsed": 16500,
+    "gzip": -1
+  },
+  "docs:/components/chips": {
+    "parsed": 21500,
+    "gzip": -1
+  },
+  "docs:/components/click-away-listener": {
+    "parsed": 3380,
+    "gzip": -1
+  },
+  "docs:/components/container": {
+    "parsed": 3830,
+    "gzip": -1
+  },
+  "docs:/components/css-baseline": {
+    "parsed": 5960,
+    "gzip": -1
+  },
+  "docs:/components/dialogs": {
+    "parsed": 42100,
+    "gzip": -1
+  },
+  "docs:/components/dividers": {
+    "parsed": 12200,
+    "gzip": -1
+  },
+  "docs:/components/drawers": {
+    "parsed": 29700,
+    "gzip": -1
+  },
+  "docs:/components/expansion-panels": {
+    "parsed": 20000,
+    "gzip": -1
+  },
+  "docs:/components/floating-action-button": {
+    "parsed": 10300,
+    "gzip": -1
+  },
+  "docs:/components/grid": {
+    "parsed": 33900,
+    "gzip": -1
+  },
+  "docs:/components/grid-list": {
+    "parsed": 11800,
+    "gzip": -1
+  },
+  "docs:/components/hidden": {
+    "parsed": 10500,
+    "gzip": -1
+  },
+  "docs:/components/icons": {
+    "parsed": 24400,
+    "gzip": -1
+  },
+  "docs:/components/links": {
+    "parsed": 6820,
+    "gzip": -1
+  },
+  "docs:/components/lists": {
+    "parsed": 25900,
+    "gzip": -1
+  },
+  "docs:/components/material-icons": {
+    "parsed": 728000,
+    "gzip": -1
+  },
+  "docs:/components/menus": {
+    "parsed": 23400,
+    "gzip": -1
+  },
+  "docs:/components/modal": {
+    "parsed": 11500,
+    "gzip": -1
+  },
+  "docs:/components/no-ssr": {
+    "parsed": 5020,
+    "gzip": -1
+  },
+  "docs:/components/pagination": {
+    "parsed": 8080,
+    "gzip": -1
+  },
+  "docs:/components/paper": {
+    "parsed": 3330,
+    "gzip": -1
+  },
+  "docs:/components/pickers": {
+    "parsed": 38200,
+    "gzip": -1
+  },
+  "docs:/components/popover": {
+    "parsed": 16900,
+    "gzip": -1
+  },
+  "docs:/components/popper": {
+    "parsed": 22500,
+    "gzip": -1
+  },
+  "docs:/components/portal": {
+    "parsed": 3290,
+    "gzip": -1
+  },
+  "docs:/components/progress": {
+    "parsed": 21700,
+    "gzip": -1
+  },
+  "docs:/components/radio-buttons": {
+    "parsed": 15200,
+    "gzip": -1
+  },
+  "docs:/components/rating": {
+    "parsed": 11000,
+    "gzip": -1
+  },
+  "docs:/components/selects": {
+    "parsed": 29500,
+    "gzip": -1
+  },
+  "docs:/components/skeleton": {
+    "parsed": 10100,
+    "gzip": -1
+  },
+  "docs:/components/slider": {
+    "parsed": 14600,
+    "gzip": -1
+  },
+  "docs:/components/snackbars": {
+    "parsed": 24800,
+    "gzip": -1
+  },
+  "docs:/components/speed-dial": {
+    "parsed": 14400,
+    "gzip": -1
+  },
+  "docs:/components/steppers": {
+    "parsed": 36100,
+    "gzip": -1
+  },
+  "docs:/components/switches": {
+    "parsed": 16000,
+    "gzip": -1
+  },
+  "docs:/components/tables": {
+    "parsed": 174000,
+    "gzip": -1
+  },
+  "docs:/components/tabs": {
+    "parsed": 19200,
+    "gzip": -1
+  },
+  "docs:/components/text-fields": {
+    "parsed": 54700,
+    "gzip": -1
+  },
+  "docs:/components/textarea-autosize": {
+    "parsed": 2810,
+    "gzip": -1
+  },
+  "docs:/components/toggle-button": {
+    "parsed": 10500,
+    "gzip": -1
+  },
+  "docs:/components/tooltips": {
+    "parsed": 17300,
+    "gzip": -1
+  },
+  "docs:/components/transfer-list": {
+    "parsed": 9210,
+    "gzip": -1
+  },
+  "docs:/components/transitions": {
+    "parsed": 10800,
+    "gzip": -1
+  },
+  "docs:/components/tree-view": {
+    "parsed": 11200,
+    "gzip": -1
+  },
+  "docs:/components/typography": {
+    "parsed": 9700,
+    "gzip": -1
+  },
+  "docs:/components/use-media-query": {
+    "parsed": 13100,
+    "gzip": -1
+  },
+  "docs:/customization/breakpoints": {
+    "parsed": 15700,
+    "gzip": -1
+  },
+  "docs:/customization/color": {
+    "parsed": 21500,
+    "gzip": -1
+  },
+  "docs:/customization/components": {
+    "parsed": 37500,
+    "gzip": -1
+  },
+  "docs:/customization/default-theme": {
+    "parsed": 8550,
+    "gzip": -1
+  },
+  "docs:/customization/density": {
+    "parsed": 9130,
+    "gzip": -1
+  },
+  "docs:/customization/globals": {
+    "parsed": 4650,
+    "gzip": -1
+  },
+  "docs:/customization/palette": {
+    "parsed": 11900,
+    "gzip": -1
+  },
+  "docs:/customization/spacing": {
+    "parsed": 2490,
+    "gzip": -1
+  },
+  "docs:/customization/theming": {
+    "parsed": 17000,
+    "gzip": -1
+  },
+  "docs:/customization/typography": {
+    "parsed": 11600,
+    "gzip": -1
+  },
+  "docs:/customization/z-index": {
+    "parsed": 3050,
+    "gzip": -1
+  },
+  "docs:/discover-more/backers": {
+    "parsed": 2880,
+    "gzip": -1
+  },
+  "docs:/discover-more/changelog": {
+    "parsed": 1370,
+    "gzip": -1
+  },
+  "docs:/discover-more/languages": {
+    "parsed": 3320,
+    "gzip": -1
+  },
+  "docs:/discover-more/related-projects": {
+    "parsed": 7090,
+    "gzip": -1
+  },
+  "docs:/discover-more/roadmap": {
+    "parsed": 3670,
+    "gzip": -1
+  },
+  "docs:/discover-more/showcase": {
+    "parsed": 13500,
+    "gzip": -1
+  },
+  "docs:/discover-more/team": {
+    "parsed": 6510,
+    "gzip": -1
+  },
+  "docs:/discover-more/vision": {
+    "parsed": 7030,
+    "gzip": -1
+  },
+  "docs:/getting-started/example-projects": {
+    "parsed": 6110,
+    "gzip": -1
+  },
+  "docs:/getting-started/faq": {
+    "parsed": 31800,
+    "gzip": -1
+  },
+  "docs:/getting-started/installation": {
+    "parsed": 7600,
+    "gzip": -1
+  },
+  "docs:/getting-started/learn": {
+    "parsed": 8390,
+    "gzip": -1
+  },
+  "docs:/getting-started/support": {
+    "parsed": 7840,
+    "gzip": -1
+  },
+  "docs:/getting-started/supported-components": {
+    "parsed": 6190,
+    "gzip": -1
+  },
+  "docs:/getting-started/supported-platforms": {
+    "parsed": 5690,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates": {
+    "parsed": 8540,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/album": {
+    "parsed": 5570,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/blog": {
+    "parsed": 7430,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/checkout": {
+    "parsed": 11200,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/dashboard": {
+    "parsed": 8470,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/pricing": {
+    "parsed": 7790,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/sign-in": {
+    "parsed": 9480,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/sign-in-side": {
+    "parsed": 9240,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/sign-up": {
+    "parsed": 9590,
+    "gzip": -1
+  },
+  "docs:/getting-started/templates/sticky-footer": {
+    "parsed": 1540,
+    "gzip": -1
+  },
+  "docs:/getting-started/usage": {
+    "parsed": 9370,
+    "gzip": -1
+  },
+  "docs:/guides/api": {
+    "parsed": 17400,
+    "gzip": -1
+  },
+  "docs:/guides/composition": {
+    "parsed": 14100,
+    "gzip": -1
+  },
+  "docs:/guides/flow": {
+    "parsed": 2210,
+    "gzip": -1
+  },
+  "docs:/guides/interoperability": {
+    "parsed": 14900,
+    "gzip": -1
+  },
+  "docs:/guides/localization": {
+    "parsed": 19800,
+    "gzip": -1
+  },
+  "docs:/guides/migration-v0x": {
+    "parsed": 7250,
+    "gzip": -1
+  },
+  "docs:/guides/migration-v3": {
+    "parsed": 22300,
+    "gzip": -1
+  },
+  "docs:/guides/minimizing-bundle-size": {
+    "parsed": 6730,
+    "gzip": -1
+  },
+  "docs:/guides/responsive-ui": {
+    "parsed": 4180,
+    "gzip": -1
+  },
+  "docs:/guides/right-to-left": {
+    "parsed": 6690,
+    "gzip": -1
+  },
+  "docs:/guides/server-rendering": {
+    "parsed": 8380,
+    "gzip": -1
+  },
+  "docs:/guides/testing": {
+    "parsed": 8330,
+    "gzip": -1
+  },
+  "docs:/guides/typescript": {
+    "parsed": 13400,
+    "gzip": -1
+  },
+  "docs:/performance/table-component": {
+    "parsed": 1440,
+    "gzip": -1
+  },
+  "docs:/performance/table-emotion": {
+    "parsed": 2970,
+    "gzip": -1
+  },
+  "docs:/performance/table-hook": {
+    "parsed": 2230,
+    "gzip": -1
+  },
+  "docs:/performance/table-mui": {
+    "parsed": 4420,
+    "gzip": -1
+  },
+  "docs:/performance/table-raw": {
+    "parsed": 613,
+    "gzip": -1
+  },
+  "docs:/performance/table-styled-components": {
+    "parsed": 2610,
+    "gzip": -1
+  },
+  "docs:/premium-themes/onepirate": {
+    "parsed": 7110,
+    "gzip": -1
+  },
+  "docs:/premium-themes/onepirate/forgot-password": {
+    "parsed": 1010,
+    "gzip": -1
+  },
+  "docs:/premium-themes/onepirate/privacy": {
+    "parsed": 4430,
+    "gzip": -1
+  },
+  "docs:/premium-themes/onepirate/sign-in": {
+    "parsed": 1070,
+    "gzip": -1
+  },
+  "docs:/premium-themes/onepirate/sign-up": {
+    "parsed": 1120,
+    "gzip": -1
+  },
+  "docs:/premium-themes/onepirate/terms": {
+    "parsed": 11800,
+    "gzip": -1
+  },
+  "docs:/premium-themes/paperbase": {
+    "parsed": 8710,
+    "gzip": -1
+  },
+  "docs:/styles/advanced": {
+    "parsed": 30600,
+    "gzip": -1
+  },
+  "docs:/styles/api": {
+    "parsed": 16000,
+    "gzip": -1
+  },
+  "docs:/styles/basics": {
+    "parsed": 17600,
+    "gzip": -1
+  },
+  "docs:/system/api": {
+    "parsed": 5850,
+    "gzip": -1
+  },
+  "docs:/system/basics": {
+    "parsed": 25100,
+    "gzip": -1
+  },
+  "docs:/system/borders": {
+    "parsed": 4040,
+    "gzip": -1
+  },
+  "docs:/system/display": {
+    "parsed": 6510,
+    "gzip": -1
+  },
+  "docs:/system/flexbox": {
+    "parsed": 5720,
+    "gzip": -1
+  },
+  "docs:/system/palette": {
+    "parsed": 4280,
+    "gzip": -1
+  },
+  "docs:/system/positions": {
+    "parsed": 2460,
+    "gzip": -1
+  },
+  "docs:/system/shadows": {
+    "parsed": 3440,
+    "gzip": -1
+  },
+  "docs:/system/sizing": {
+    "parsed": 3440,
+    "gzip": -1
+  },
+  "docs:/system/spacing": {
+    "parsed": 5970,
+    "gzip": -1
+  },
+  "docs:/system/typography": {
+    "parsed": 4220,
+    "gzip": -1
+  },
+  "docs:/versions": {
+    "parsed": 23100,
+    "gzip": -1
+  },
+  "docs.main": {
+    "parsed": 33700,
+    "gzip": -1
+  },
+  "docs:shared:chunk/commons": {
+    "parsed": 5990,
+    "gzip": -1
+  },
+  "docs:shared:chunk/framework": {
+    "parsed": 42300,
+    "gzip": -1
+  },
+  "docs:shared:runtime/main": {
+    "parsed": 6780,
+    "gzip": -1
+  },
+  "docs:shared:runtime/webpack": {
+    "parsed": 1240,
+    "gzip": -1
+  },
+  "docs:chunk:shared": {
+    "parsed": 68290,
+    "gzip": -1,
+    "tally": 7
+  }
+}
