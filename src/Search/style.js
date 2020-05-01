@@ -10,7 +10,7 @@
     color: #949494;
     padding: 5px 15px;
     margin-left: 11px;
-    margin-top:${props =>props.windowStatus?'-20px':'30px'};
+    margin-top:${props =>props.windowStatus?'-20px':'5px'};
     opacity:${props =>props.windowStatus?'0':'1'};
     visibility:${props =>props.windowStatus?'hidden':'visible'};
     transition:${props =>props.transition?'1s':'0.7s'};

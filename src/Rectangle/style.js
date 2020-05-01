@@ -19,7 +19,7 @@ export const Window = styled.div`
     font-family: 'Roboto Condensed', sans-serif;
     z-index: 999;
     bottom: 75px;
-    height: ${props => props.sweepStatus?'95.5%' :'55%'};95%;`
+    height: ${props => props.sweepStatus?'95.5%' :'55%'};`
 
     export const FirstBlock= styled.div`
     height:${props => props.windowStatus?'0%':'100%'};
@@ -27,6 +27,7 @@ export const Window = styled.div`
 `
 
 export const BlockForMessages = styled.div`
+
 display:${props => props.windowStatus?'block': 'none'};
 height:100%;
 overflow:auto;

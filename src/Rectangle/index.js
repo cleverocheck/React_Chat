@@ -17,16 +17,19 @@
    const [hidden,setHidden] = useState([])
   const [render,setRender] = useState(false)
   const [textSearch,setTextSearch] = useState('')
-
-
-
+  const [lastData,setLastData] = useState(undefined)
+  const [renderPanel,setRenderPanel] = useState(false)
+  const [deleteArea,setDelete] = useState(false)
    return<Window
+
           animStatus = {animStatus}
           setAnimStatus = {setAnimStatus}
           sweepStatus = {sweepStatus}
           setsweepStatus = {setsweepStatus}  >
             <ParagraphEx
 
+            lastData = {lastData}
+            setLastData ={setLastData}
             backStatus= {backStatus}
             setBackStatus = {setBackStatus}
           transition = {transition}
@@ -59,6 +62,8 @@
 
 
                 <ContentBlock
+
+          setDelete = {setDelete}
           textSearch = {textSearch}
           render = {render}
           setRender = {setRender}
@@ -73,15 +78,32 @@
           setWinStatus = {setWinStatus}/>
 
             </FirstBlock>
-            <BlockForMessages windowStatus = {windowStatus}>{windowStatus?<MessagesBlock
+            <BlockForMessages
+
+              className ='messageWindow'
+             windowStatus = {windowStatus}>{windowStatus?
+             <MessagesBlock
+
+          renderPanel = {renderPanel}
+          setRenderPanel = {setRenderPanel}
+          lastData = {lastData}
+          setLastData = {setLastData}
+          setRender = {setRender}
+          render = {render}
           windowStatus = {windowStatus}
           id = {id}>
-            </MessagesBlock>:''
+            </MessagesBlock >:''
   }</BlockForMessages>
 
 
           <PanelEx
-
+          setDelete= {setDelete}
+          deleteArea = {deleteArea}
+          render = {render}
+          setRender = {setRender}
+          renderPanel = {renderPanel}
+          setRenderPanel = {setRenderPanel}
+          renderPanel = {renderPanel}
           data = {idBlocks[id]}
           sweepStatus = {sweepStatus}
           windowStatus = {windowStatus}/>

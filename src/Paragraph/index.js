@@ -2,7 +2,7 @@ import React,{useState,useEffect} from 'react';
 import {Paragraph,Collapse,Maximize,NameBar,StyledButtonBack,DivToBack} from './style.js'
 import logo from './expand_ico.png'
 import button from './button.png'
-  const ParagraphEx = ({setAnimStatus,animStatus,sweepStatus,setsweepStatus,windowStatus,setWinStatus,transition,setTransition,backStatus,setBackStatus}) =>{
+  const ParagraphEx = ({setAnimStatus,animStatus,sweepStatus,setsweepStatus,windowStatus,setWinStatus,transition,setTransition,backStatus,setBackStatus,lastData,setLastData}) =>{
 
   const Сlose = () =>{
   setTransition(!transition)
@@ -10,11 +10,18 @@ import button from './button.png'
 
 
   }
-  const Swip = () => setsweepStatus(!sweepStatus)
+  const Swip = () =>{
+setsweepStatus(!sweepStatus)
+
+
+   }
   const Back = () =>{
     setWinStatus(!windowStatus)
     setBackStatus(!backStatus)
-    
+    if(lastData !=undefined){lastData.info = false}
+    setLastData(undefined)
+
+
   }
 
 const [title,setTitle] = useState('ЧАТ ПОДДЕРЖКИ')
@@ -22,9 +29,9 @@ const [anim,setAnim] = useState(false)
 
 
 useEffect(()=>{ setTimeout(()=>windowStatus?setTitle("ВЫХОД ИЗ ДИАЛОГА"):
-setTitle("ЧАТ ПОДДЕРЖКИ"),500)},[windowStatus])
+setTitle("ЧАТ ПОДДЕРЖКИ"),250)},[windowStatus])
 useEffect(() =>setAnim(true),[windowStatus])
-useEffect(() =>{setTimeout(()=>setAnim(false),1000)},[windowStatus])
+useEffect(() =>{setTimeout(()=>setAnim(false),500)},[windowStatus])
 
 return(
 <Paragraph>

@@ -22,8 +22,9 @@ justify-content: center;
 `
 export const StyledButtonBack = styled.div`
 padding: 11px 0px 0px 7px;
-    cursor: pointer;
+
 margin-left:5px;
+margin-top:-30px;
     &:before {
         font-family: "Font Awesome 5 Pro";
         content: "\\f0c6";
@@ -72,5 +73,56 @@ export const PrintInfoBlock = styled.div`
 width:100%;
 display: flex;
   justify-content: center;
+
+`
+export const Quote = styled.div`
+display:grid;
+height:${props => props.renderPanel?'23':'23'}px;
+grid-template-areas:
+'name cross'
+'text cross';
+grid-template-rows: 11px 11px;
+grid-template-columns: 90% 10%;
+
+position:${props => props.quote == ''?'absolute':''};
+top:${props => props.quote == ''?'-9999px':'0px'};
+left:${props => props.quote == ''?'-9999px':'0px'};
+
+`
+export const TextBlock1 = styled.b`
+grid-area: name;
+font-size:15px;
+`
+export const TextBlock2 = styled.div`
+grid-area: text;
+font-size:12px;
+margin-top:2px;
+color:black;
+font-style:italic;
+
+`
+export const Cross = styled.div`
+grid-area: cross;
+text-align: center;fontsize:90px;
+margin-top:-2px;
+margin-left:20px;
+cursor: pointer;
+
+&:before {
+
+    font-family: "Font Awesome 5 Pro";
+    content: "\\f00d";
+    font-size: 25px;
+    color:#4d4d4d;
+
+}
+`
+export const ZeroInput = styled.input`
+color: transparent;
+heigth:18px;
+width:18px;
+margin-top:10px;
+margin-left:10px;
+opacity:0;
 
 `

@@ -65,7 +65,7 @@ to{opacity: 1;}
 from{opacity: 1;}
  `
 export const NameBar = styled.div`
-animation: ${props => props.anim ?nameBar:'undefined'} 1s linear infinite;
+animation: ${props => props.anim ?nameBar:'undefined'} 0.5s linear infinite;
 animation-iteration-count: 1;
 margin-top:-20px;
 margin-left:45px;
