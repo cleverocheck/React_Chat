@@ -72,13 +72,15 @@ font-style: oblique;
 `
 
 export  const BlockImg = styled.img`
-
+heigth:50px;
+width:50px;
 overflow:hidden;
 grid-area:img;
 
 `
 export  const BlockImgT = styled.img`
-
+heigth:50px;
+width:50px;
 overflow:hidden;
 grid-area:imgT;
 
